@@ -1,6 +1,6 @@
 # Hi there! ![wave emoji](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is **Alejandro Sanmiguel**, a Backend Developer based in Ibagué, Colombia. I am currently a **Systems Engineering student** with a passion for developing robust and scalable applications.
+I'm **Alejandro Sanmiguel**, a Backend Developer based in Ibagué, Colombia. I am currently a **Systems Engineering student** with a passion for developing robust and scalable applications.
 
 ## 🚀 About Me
 
@@ -14,13 +14,8 @@ As a **Full Stack Developer** with a focus on Java, I have hands-on experience i
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanmiguelgaleano" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
+<a href="https://twitter.com/sanmiguell11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanmiguell11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/sanmiguelgaleano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sanmiguelgaleano" height="30" width="40" /></a>
 </p>
 
 
