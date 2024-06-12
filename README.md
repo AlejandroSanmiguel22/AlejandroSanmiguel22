@@ -6,53 +6,6 @@ My name is **Alejandro Sanmiguel**, a Backend Developer based in Ibagué, Colomb
 
 As a **Full Stack Developer** with a focus on Java, I have hands-on experience in configuring development environments, understanding web architectures, implementing MVC projects, integrating NoSQL databases like MongoDB with Spring Boot, performing CRUD operations, managing dependencies with Maven and Gradle, validating forms, and communicating components in Angular and React. I also have skills in CSS for styling pages, deploying applications, and planning complete projects.
 
-## 💼 Experience
-
-### Java Developer
-**Colombian TI Software S.A.S**, Ibagué, Tolima  
-*03/2023 - 03/2024*
-
-- Developed software and applications, enhancing functionality and performance.
-- Improved and optimized existing systems.
-- Conducted functionality and performance tests.
-- Created and developed programs and systems based on client requirements.
-- Developed, tested, and documented software.
-
-### Academic Monitor
-**Universidad de Ibagué**, Ibagué, Tolima  
-*02/2021 - 05/2022*
-
-- Coordinated work teams and ensured effective task completion.
-- Tested and validated developed solutions.
-- Modified existing software to correct coding errors.
-- Developed software and applications.
-
-## 📚 Education
-
-- **Systems Engineering Student**  
-  Universidad de Ibagué  
-  *2024*
-
-- **Full Stack Java Developer**  
-  Ucoltis  
-  *2024*
-
-- **Cloud Foundations**  
-  AWS Academy  
-  *2023*
-
-## 🎓 Certifications
-
-- Reactive Application Development in Spring Boot
-- Scrum for Software Development
-- Java EE Developer
-- Programming Language C++ Structure
-- Technical Support Fundamentals
-
-## 🌐 Languages
-
-- **Spanish**: Native
-- **English**: Intermediate (B1)
 
 ## 🛠️ Skills
 
@@ -95,13 +48,6 @@ As a **Full Stack Developer** with a focus on Java, I have hands-on experience i
   </a>
 </p>
 
-## 📞 Contact
-
-- **Phone**: +57 3144569617
-- **Email**: [alejandrosanmiguel0222@gmail.com](mailto:alejandrosanmiguel0222@gmail.com)
-- **Location**: Ibagué, Tolima, Colombia
-- **LinkedIn**: [sanmiguelgaleano](https://www.linkedin.com/in/sanmiguelgaleano)
-
 ## 🌐 Socials
 
 <p align="left">
@@ -114,5 +60,4 @@ As a **Full Stack Developer** with a focus on Java, I have hands-on experience i
   </a>
 </p>
 
-Feel free to reach out to me through any of the contact methods above. I'm always open to discussing new projects, collaborations, or opportunities!
 
